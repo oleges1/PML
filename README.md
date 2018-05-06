@@ -1,2 +1,2 @@
 # PML
-Prikladnoy Machine Learning
+Practical Machine Learning
