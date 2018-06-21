@@ -13,6 +13,7 @@ Practical Machine Learning
  * lab8 - RL agent for [environment](https://gym.openai.com/envs/Skiing-v0/), based on [DeepMind's atary](http://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
  
  Few words about agent from `lab8`:
+ 
  Unexpectedly, the optimal strategy for this game is just sky down. This happen because passing throw gates
  don't give any additional reward to agent.
  This why, despite everything, my agent works.
