@@ -11,4 +11,4 @@ Practical Machine Learning
  * lab5 - [competition](https://www.kaggle.com/c/p5-characters/) on classifing chinese characters with cnn - [my solution](https://github.com/oleges1/Renju/blob/local/Lab3_chinese_characters.ipynb)
  * lab6 - [competition](https://www.kaggle.com/c/p6-segmentation/) on u-nets - some special kind of cnn
  * lab7 - [competition](https://www.kaggle.com/c/p7-phonetics-2018) on LSTM and other recurrent networks
- * lab8 - RL agent for [game](https://gym.openai.com/envs/Skiing-v0/) in which the skier sky throw the gates, based on [DeepMind's atary](http://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+ * lab8 - RL agent for [game](https://gym.openai.com/envs/Skiing-v0/) in which the skier sky throw the gates, based on [DeepMind's atary](http://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), [link](https://drive.google.com/open?id=1ZMR2Zxfz4Zw0jcCU2MQ-AcIZ25ykcX2p) to the working model
