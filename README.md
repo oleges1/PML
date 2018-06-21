@@ -11,10 +11,4 @@ Practical Machine Learning
  * lab5 - [competition](https://www.kaggle.com/c/p5-characters/) on classifing chinese characters with cnn - [my solution](https://github.com/oleges1/Renju/blob/local/Lab3_chinese_characters.ipynb)
  * lab6 - [competition](https://www.kaggle.com/c/p6-segmentation/) on u-nets - some special kind of cnn
  * lab7 - [competition](https://www.kaggle.com/c/p7-phonetics-2018) on LSTM and other recurrent networks
- * lab8 - RL agent for [environment](https://gym.openai.com/envs/Skiing-v0/), based on [DeepMind's atary](http://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
- 
- Few words about agent from `lab8`:
- 
- Unexpectedly, the optimal strategy for this game is just sky down. This happen because passing throw gates
- don't give any additional reward to agent.
- This why, despite everything, my agent works.
+ * lab8 - RL agent for [game](https://gym.openai.com/envs/Skiing-v0/) in which the skier sky throw the gates, based on [DeepMind's atary](http://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
