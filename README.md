@@ -12,4 +12,5 @@ Practical Machine Learning
  * lab7 - [competition](https://www.kaggle.com/c/p7-phonetics-2018) on LSTM and other recurrent networks
  * lab8 - RL agent for [environment](https://gym.openai.com/envs/Skiing-v0/)
  
- All 'final' results in this labs are not really final and are updating every day.
+ Few words about agent from `lab8`:
+ 
